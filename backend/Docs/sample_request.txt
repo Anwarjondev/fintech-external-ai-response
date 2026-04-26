@@ -1,0 +1,6 @@
+    Hurmatli bank,
+
+    Anvarjon Karimovning 2026-03-20 sanadan 2026-04-03 sanagacha bo'lgan barcha tranzaksiyalar tarixini taqdim eting.
+    Javobda har bir tranzaksiya uchun sana-vaqt, summa, valyuta, merchant nomi va tranzaksiya turi ko'rsatilsin.
+
+    Rahmat.
